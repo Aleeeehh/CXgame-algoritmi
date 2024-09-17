@@ -9,6 +9,18 @@ javac -cp ".." *.java */*.java
 inside the 'connectx/' folder.
 
 To launch the game, read instructions inside the 'connectx/README.md' file.
+If you want to play against the "LeonAndreAle" Bot Player (the most powerful), run inside the connectx folder
+
+```
+java -cp ".." connectx.CXGame 6 7 4 connectx.LeonAndreAle.LeonAndreAle
+```
+
+If you want to play against the "MonteCarlo" Bot Player, run inside the connectx folder
+
+```
+java -cp ".." connectx.CXGame 6 7 4 connectx.MonteCarlo.MonteCarlo    
+```
+
 
 ## Description
 This is a group project completed for the Algorithm course of the UNIBO Computer Science Degree, Bologna, Italy.
