@@ -25,7 +25,7 @@ java -cp ".." connectx.CXGame 6 7 4 connectx.MonteCarlo.MonteCarlo
 ## Description
 This is a group project completed for the Algorithm course of the UNIBO Computer Science Degree, Bologna, Italy.
 
-The goal is to optimize the choiche of the moves in a Connect-x game.
+The goal is to optimize the choice of the moves in a Connect-x game.
 
 There are 3 parameters that define a game:
 - m: number of rows
